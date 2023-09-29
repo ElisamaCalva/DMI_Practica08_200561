@@ -28,9 +28,9 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 7 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de cambio de fuente y iconos en una aplicación en el cual se tiene que presentar un Drawer y un bottomNavigationBar. En base a estas características que tiene que llevar la aplicación, se tubo que hacer un cambio de fuentes de preferencia de Google Fonts ya que este es un servicio de distribución de fuentes tipográficas propiedad de Google. Incluye una amplia biblioteca de fuentes de código abierto, un directorio web interactivo para navegar por la biblioteca y una API para usar las fuentes a través de CSS​ y Android., y también  hacerle un cambio de iconos de nuestra preferencia. |
-|  Fecha de Carga | 25/09/23  |
+| Nombre  |  Practica 8 Aplicación en Flutter y StatelesWidgets |
+| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series. Con "MovieAPP," puedes sumergirte en experiencias completas, accediendo a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfruta de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Ya seas un apasionado del cine o un fanático de las series, "MovieAPP" te brinda una experiencia personalizada al permitirte crear y administrar listas de reproducción adaptadas a tus preferencias. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. En resumen, "MovieAPP" se convierte en tu compañero esencial para explorar, descubrir y disfrutar del fascinante mundo del entretenimiento audiovisual. |
+|  Fecha de Carga | 28/09/23  |
 
 &nbsp;
 &nbsp;
